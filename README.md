@@ -20,21 +20,29 @@ https://blog.codinghorror.com/when-understanding-means-rewriting/
   * increase/decrease
   * add/delete
   * insert/remove
-* code style
+  * prev vs previous
+* parameters
+* use of standard patterns
+* error handling
+* ... code style in general
 
 Examples
 * git
   * `git fetch` + `git merge` = `git pull` vs `git checkout` + `git branch` = `git checkout -b`
   * `git commit` ignores local, unstaged changes in foo.txt; `git commit foo.txt` doesn’t
 
-
 ## orthogonality
+* functions have no side effects
+
+Examples
+* sides of rectangle
 
 ## discoverability
 
 ## adaptation
 
-## information hiding: : physical and logical
+## information hiding
+physical and logical
 
 ## loose coupling
 
