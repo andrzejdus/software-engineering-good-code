@@ -10,9 +10,27 @@ ok, so what is ~~~software~~~ engineering?
 
 ## code = API
 
+## why
+* 75% reading (understanding code)
+https://blog.codinghorror.com/when-understanding-means-rewriting/
+* it's cool
+
 ## consistency
+* naming
+  * increase/decrease
+  * add/delete
+  * insert/remove
+* code style
+
+Examples
+* git
+  * `git fetch` + `git merge` = `git pull` vs `git checkout` + `git branch` = `git checkout -b`
+  * `git commit` ignores local, unstaged changes in foo.txt; `git commit foo.txt` doesn’t
+
 
 ## orthogonality
+
+## discoverability
 
 ## adaptation
 
