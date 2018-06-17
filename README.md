@@ -63,8 +63,6 @@ Examples
 * when it comes you may have more knowledge how about the use of your code
 * it's easier to add code to simple API vs complex one
 
-## class should define what to do not how its done
-
 ## Demeter Law
 
 ## Heisenbugs
@@ -72,5 +70,12 @@ Examples
 
 ## design patterns
 * GoF
-* creational:
 * why design patterns?
+
+## SOLID
+* of course :-D
+
+## class should define what to do not how its done
+
+## prefer composition over inheritance
+* yup!
