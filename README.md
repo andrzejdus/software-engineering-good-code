@@ -79,3 +79,6 @@ Examples
 
 ## prefer composition over inheritance
 * yup!
+
+## Command Query Separation
+* https://en.wikipedia.org/wiki/Command–query_separation
