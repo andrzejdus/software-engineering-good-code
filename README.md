@@ -82,3 +82,7 @@ Examples
 
 ## Command Query Separation
 * https://en.wikipedia.org/wiki/Command–query_separation
+
+# Books
+* https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction
+* https://smile.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683
